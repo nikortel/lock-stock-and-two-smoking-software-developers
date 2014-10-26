@@ -16,15 +16,21 @@ Things to do is written with elven language.
         - Clean code
         - Refaktorointi
 -   Testaus
+	- Voitaisiin käyttää termiä "Test Driven Learning" 
+		- Hyvin kuvaava termi ja tästä löytyy jo matskua tueksi mm. http://users.csc.calpoly.edu/~djanzen/tdl/
 
     Yksikkötestaus
     
     Muut?
 -   Versionhallinta
 -   CI
+	- Ehkä kirjan loppupään juttuja, voisi ehdottaa että oppimisen tueksi otetaan käyttöön joku ilmainen CI palvelu netistä
+		- https://www.shippable.com, https://circleci.com/ tms
 -   Debuggaus
 
     Tämä voi mennä jo scopesta ulos
+	- Joo ehkä voi täsmentää debuggerin käytön tärkeyttä mutta ei sen tarkemmin detaileihin. 
+	- Esim unit testauksen yhteydessä voisi mainita että testejä korjailtaessa on debuggeri olennainen työkalu
 
 And so on.
 
