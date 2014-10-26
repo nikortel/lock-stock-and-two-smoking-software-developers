@@ -4,10 +4,19 @@
 Things to do is written with elven language.
 
 -   Tiimit
--   Clean code
--   Refaktorointi
+-   "Beautiful code"
+    - Miksi
+        - Nopeammin ymmärrys mitä koodi tekee
+        - Tiimi saa nopeammin otteen
+        - Ylläpidettävyys
+        - "Broken Windows"
+    - Työkalut
+        - KISS
+        - DRY
+        - Clean code
+        - Refaktorointi
 -   Testaus
-    
+
     Yksikkötestaus
     
     Muut?
